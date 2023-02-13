@@ -1,2 +1,2 @@
 #!/bin/bash
-ls /etc/passwd | tail | fmt | pr |lpr
+tail /etc/hosts
