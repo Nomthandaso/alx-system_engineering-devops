@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -IR | grep -c
+ls -lRa | grep -c
