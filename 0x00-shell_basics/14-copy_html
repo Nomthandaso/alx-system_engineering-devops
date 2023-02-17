@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -ru programs/*.html ..
+cp -ru *.html ..
